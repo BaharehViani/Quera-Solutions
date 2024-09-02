@@ -57,8 +57,8 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88/App.java) | مسابقه | [بلندگو](https://quera.org/problemset/3430) | 51
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AC%D8%AF%DB%8C/App.java) | مسابقه | [جدی](https://quera.org/problemset/34085) | 52
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B5%D8%AF%D9%81%20%D9%81%D9%84%D8%B2%DB%8C/App.java) | مسابقه | [صدف فلزی](https://quera.org/problemset/6581) | 53
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 54
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 55
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B1%D9%88%D8%A8%D9%87%E2%80%8C%D8%B1%D9%88%20%D8%AF%D8%B1%20%D9%85%D8%AA%D8%B1%D9%88/App.java) | مسابقه | [روبه‌رو در مترو](https://quera.org/problemset/218361) | 54
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%A9%D9%84%DB%8C%D8%AF%20%DA%86%D8%B1%D8%A7%D8%BA/App.java) | مسابقه | [کلید چراغ](https://quera.org/problemset/49028) | 55
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 56
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 57
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 58
