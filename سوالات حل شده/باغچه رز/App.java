@@ -6,7 +6,7 @@ public class App
     {
         Scanner scan = new Scanner(System.in);
 
-		    int n = scan.nextInt();
+	int n = scan.nextInt();
         int m = scan.nextInt();
         char[][] flower = new char[m][n];
         String row = "";
