@@ -6,7 +6,7 @@ public class App
     {
         Scanner scan = new Scanner(System.in);
 
-		  long x = scan.nextLong();
+	long x = scan.nextLong();
         long y = scan.nextLong();
         if (x < 0) {
             x = Math.abs(x);
