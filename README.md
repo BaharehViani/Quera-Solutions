@@ -52,5 +52,20 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AF%D8%B1%20%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C%20%D8%AA%D8%B1%D8%A8/App.java) | مسابقه | [در جستجوی ترب](https://quera.org/problemset/62451) | 46
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D9%88%D8%B1%D8%A7%D8%AE%20%D9%85%D9%88%D8%B4/App.java) | مسابقه | [سوراخ موش](https://quera.org/problemset/91712) | 47
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AA%D9%88%20%DA%86%D9%82%D8%AF%D8%B1%20%D8%A7%D8%B6%D8%A7%D9%81%D9%87%20%D9%88%D8%B2%D9%86%20%D8%AF%D8%A7%D8%B1%DB%8C%D8%9F/App.java) | مسابقه | [تو چقدر اضافه وزن داری؟](https://quera.org/problemset/3404) | 48
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 49
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 50
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%86%D9%88%D8%A8%D8%B1%D8%A7%D9%86%D9%87/App.java) | مسابقه | [نوبرانه](https://quera.org/problemset/104588) | 49
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AA%DA%A9%E2%80%8C%D8%B1%D9%82%D9%85%DB%8C/App.java) | مسابقه | [تک‌رقمی](https://quera.org/problemset/3539) | 50
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%A8%D9%84%D9%86%D8%AF%DA%AF%D9%88/App.java) | مسابقه | [بلندگو](https://quera.org/problemset/3430) | 51
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AC%D8%AF%DB%8C/App.java) | مسابقه | [جدی](https://quera.org/problemset/34085) | 52
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B5%D8%AF%D9%81%20%D9%81%D9%84%D8%B2%DB%8C/App.java) | مسابقه | [صدف فلزی](https://quera.org/problemset/6581) | 53
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 54
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 55
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 56
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 57
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 58
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 59
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 60
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 61
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 62
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 63
+
+
