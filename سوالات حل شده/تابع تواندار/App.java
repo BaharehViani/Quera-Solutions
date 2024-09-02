@@ -9,5 +9,5 @@ public class App {
         double b = scan.nextDouble();
         double answer = Math.pow(a, b);
         System.out.printf("%.3f", answer);
-	  }
-}       
+    }
+} 
