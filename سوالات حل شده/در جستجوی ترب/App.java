@@ -20,5 +20,5 @@ public class App {
         else if ((v1 > v2 && x2 > x1) || (v2 > v1 && x1 > x2)) {
             System.out.println("SEE YOU");
         }
-	  } 
-}       
+    } 
+} 
