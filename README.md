@@ -30,11 +30,16 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B9%D8%AF%D8%AF%20%DA%86%D8%A7%D9%BE%E2%80%8C%DA%A9%D9%86/App.java) | دانشگاهی | [عدد چاپ‌کن](https://quera.org/problemset/9774) | 25
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AA%D8%A7%D8%A8%D8%B9%20%D9%86%D9%85%D8%A7%DB%8C%DB%8C/App.java) | دانشگاهی | [تابع نمایی](https://quera.org/problemset/297) | 26
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D9%88%D8%AF%D9%88%DA%A9%D9%88/App.java) | دانشگاهی | [سودوکو](https://quera.org/problemset/9743) | 27
-| [جواب]() | دانشگاهی | [](https://quera.org/problemset/615) | 28
-| [جواب]() | دانشگاهی | [](https://quera.org/problemset/615) | 29
-| [جواب]() | دانشگاهی | [](https://quera.org/problemset/615) | 30
-| [جواب]() | دانشگاهی | [](https://quera.org/problemset/615) | 31
-
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D9%87%20%D8%AF%D8%B1%D8%AC%D9%87%20%D8%AF%D9%88/App.java) | دانشگاهی | [معادله درجه دو](https://quera.org/problemset/294) | 28
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AA%D9%88%D8%A7%D9%86%20%D8%AF%D9%88/App.java) | دانشگاهی | [توان دو](https://quera.org/problemset/616) | 29
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%86%D8%B1%D8%AF%D8%A8%D9%88%D9%86%DB%8C/App.java) | دانشگاهی | [نردبونی](https://quera.org/problemset/640) | 30
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%81%D8%B1%D8%B2%D8%A7%D8%AF%20%D9%81%DB%8C%D9%84%D9%85%E2%80%8C%D8%A8%DB%8C%D9%86/App.java) | دانشگاهی | [فرزاد فیلم‌بین](https://quera.org/problemset/655) | 31
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AC%D9%85%D8%B9%20%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF/App.java) | دانشگاهی | [جمع اعداد](https://quera.org/problemset/637) | 32
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 33
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 34
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 35
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 36
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 37
 
 
 
