@@ -10,10 +10,10 @@ public class App {
         for (int i = 0; i < n; i++) {
             String name = scan.nextLine();
             System.out.println(capitalize(name));
-        }
 	}
-  public static String capitalize(String name) {
-        
+    }
+    public static String capitalize(String name) {
+         
         String[] words = name.split("\\s");
         String capitalizedWord = "";
         for (String w:words) {  
@@ -22,5 +22,5 @@ public class App {
             capitalizedWord += first.toUpperCase() + afterfirst.toLowerCase() + " ";  
         } 
         return capitalizedWord.trim();
-   }
-}       
+    }
+}  
