@@ -38,6 +38,19 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AC%D9%85%D8%B9%20%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF/App.java) | دانشگاهی | [جمع اعداد](https://quera.org/problemset/637) | 32
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AF%D8%A7%DB%8C%D8%B1%D9%87%20%D8%B9%D8%AC%DB%8C%D8%A8/App.java) | مسابقه | [دایره عجیب](https://quera.org/problemset/34081) | 33
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AE%DB%8C%D9%84%DB%8C%20%D9%82%D9%87%D9%88%D9%87%20%D8%A7%DB%8C%20%DB%8C%D8%A7%20%D8%A8%D8%A7%D8%AC%20%DB%8C%D8%A7%20%D8%AE%D9%88%D8%B4%E2%80%8C%D8%AE%D9%88%D8%A7%D8%B1!/App.java) | مسابقه | [خیلی قهوه ای یا باج یا خوش‌خوار!](https://quera.org/problemset/9596) | 34
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 35
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 36
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 37
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B1%D9%88%D8%B2%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%D9%86%20%D8%AF%D8%B1%20%D8%A8%D8%B1%D8%B1%D9%87/App.java) | مسابقه | [روز آزادی بیان در برره](https://quera.org/problemset/10162) | 35
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AC%D8%A7%D8%AF%D9%87%20%DA%A9%D8%B4%DB%8C/App.java) | مسابقه | [جاده کشی](https://quera.org/problemset/2637) | 36
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DB%8C%DA%A9%20%D8%B3%D8%A7%D8%B9%D8%AA/App.java) | مسابقه | [یک ساعت](https://quera.org/problemset/2886) | 37
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/Dice/App.java) | مسابقه | [Dice](https://quera.org/problemset/41175) | 38
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 39
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 40
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 41
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 42
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 43
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 44
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 45
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 46
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 47
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 48
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 49
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 50
