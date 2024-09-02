@@ -16,5 +16,5 @@ public class App {
             n /= 10;
         }
         System.out.println(sum);
-	  }
+    }
 }       
