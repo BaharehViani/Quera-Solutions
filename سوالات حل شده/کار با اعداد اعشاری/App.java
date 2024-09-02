@@ -5,8 +5,7 @@ public class App {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-
-		    int n = scan.nextInt();
+	int n = scan.nextInt();
         float max=0, min=0, avg=0;
 
         for (int i = 0; i < n; i++) {
@@ -26,5 +25,5 @@ public class App {
         System.out.printf("Max: %.3f \n", max);
         System.out.printf("Min: %.3f \n", min);
         System.out.printf("Avg: %.3f \n", avg/n);
-	}	
+    }	
 }       
