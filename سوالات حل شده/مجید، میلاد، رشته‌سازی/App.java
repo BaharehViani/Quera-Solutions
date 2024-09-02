@@ -7,7 +7,7 @@ public class App
         Scanner scan = new Scanner(System.in);
         int L = scan.nextInt();
         int R = scan.nextInt();
-		    String firstString = "1";
+	String firstString = "1";
         String lastString = "1";
  
         for (int i = 0; firstString.length() <= R + 1; i++) {
