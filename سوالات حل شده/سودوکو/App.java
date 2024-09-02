@@ -2,26 +2,22 @@ import java.util.Scanner;
  
 public class App {
 
-    public static void main(String[] args) {
+	public static void main(String[] args) {
 
-        Scanner scan = new Scanner(System.in);
-
+       		Scanner scan = new Scanner(System.in);
 		int[][] board = new int[9][9];
-
 		for (int i = 0; i < board.length; i++) {
 			for (int j = 0; j < board.length; j++) {
-                board[i][j] = scan.nextInt();
-            }
+             		   	board[i][j] = scan.nextInt();
+       		     	}
 		}
 		scan.close();
-		
 		if (solveBoard(board)) {
 			printBoard(board);
-		}
-		else {
+		} else {
 			System.out.println("Unsolvable board");
 		}	
-	}
+    	}
 	
 	public static final int GRID_SIZE = 9;
   
@@ -93,5 +89,5 @@ public class App {
 			}
 			System.out.println();
 		}
-    }
-}       
+    	}
+}
