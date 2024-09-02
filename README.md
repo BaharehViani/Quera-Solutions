@@ -47,8 +47,7 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%A9%D9%88%D9%84%D8%B1%20%DB%8C%D8%A7%20%D8%A8%D8%AE%D8%A7%D8%B1%DB%8C/App.java) | مسابقه | [کولر یا بخاری](https://quera.org/problemset/147635) | 41
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B1%D8%B4%D8%AA%D9%87%20%DA%86%DA%A9%D8%B1/App.java) | مسابقه | [رشته چکر](https://quera.org/problemset/106795) | 42
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D9%88%D8%A7%D9%84%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D9%86%D9%88%DB%8C%D8%B3%DB%8C%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D9%86%D9%88%DB%8C%D8%B3%DB%8C%20%D8%B3%D9%88%D8%A7%D9%84/App.java) | مسابقه | [سوال برنامه نویسی برنامه نویسی سوال](https://quera.org/problemset/3408) | 43
-| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AE%D8%B1%20%D8%AF%D8%B1%20%DA%86%D9%85%D9%86%20%D9%81%D8%B1%D8%A7%D9%88%D9%88%D9%86%D9%87!!/App.java) | مسابقه | [خر در چمن فراوونه!!
-](https://quera.org/problemset/4065) | 44
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AE%D8%B1%20%D8%AF%D8%B1%20%DA%86%D9%85%D9%86%20%D9%81%D8%B1%D8%A7%D9%88%D9%88%D9%86%D9%87!!/App.java) | مسابقه | [!!خر در چمن فراوونه](https://quera.org/problemset/4065) | 44
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 45
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 46
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 47
