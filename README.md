@@ -4,16 +4,16 @@
 | لینک جواب | دسته بندی | نام سوال | ردیف |
 | :---: | :---: | :---: | :---: |
 | [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 1
-| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 2
-| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 3
-| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 4
-| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 5
-| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 6
-| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 7
-
-
-
-
+| [جواب]() | دانشگاهی | [اعداد فیثاغورثی](https://quera.org/problemset/615) | 2
+| [جواب]() | دانشگاهی | [ب.م.م و ک.م.م](https://quera.org/problemset/615) | 3
+| [جواب]() | دانشگاهی | [اعداد اول](https://quera.org/problemset/615) | 4
+| [جواب]() | دانشگاهی | [جشن هدیه ها](https://quera.org/problemset/615) | 5
+| [جواب]() | دانشگاهی | [چاپ مربع](https://quera.org/problemset/615) | 6
+| [جواب]() | دانشگاهی | [پله نوردی](https://quera.org/problemset/615) | 7
+| [جواب]() | دانشگاهی | [چاپ لوزی](https://quera.org/problemset/615) | 8
+| [جواب]() | دانشگاهی | [کامل بودن یا نبودن](https://quera.org/problemset/615) | 9
+| [جواب]() | دانشگاهی | [](https://quera.org/problemset/615) | 10
+| [جواب]() | دانشگاهی | [](https://quera.org/problemset/615) | 11
 
 
 
