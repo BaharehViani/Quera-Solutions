@@ -3,11 +3,20 @@
 <br />به غیر از دسته بندی front-end پاسخ تمامی سوالات به زبان جاوا است.
 | لینک جواب | دسته بندی | نام سوال | ردیف |
 | :---: | :---: | :---: | :---: |
-| [جواب] | [دانشگاهی] | [تاریخ تولد](https://quera.org/problemset/615) | 1
-| [جواب] | [دانشگاهی] | [تاریخ تولد](https://quera.org/problemset/615) | 2
-| [جواب] | [دانشگاهی] | [تاریخ تولد](https://quera.org/problemset/615) | 1
-| [جواب] | [دانشگاهی] | [تاریخ تولد](https://quera.org/problemset/615) | 1
-| [جواب] | [دانشگاهی] | [تاریخ تولد](https://quera.org/problemset/615) | 1
-| [جواب] | [دانشگاهی] | [تاریخ تولد](https://quera.org/problemset/615) | 1
-| [جواب] | [دانشگاهی] | [تاریخ تولد](https://quera.org/problemset/615) | 1
-| [جواب] | [دانشگاهی] | [تاریخ تولد](https://quera.org/problemset/615) | 1
+| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 1
+| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 2
+| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 3
+| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 4
+| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 5
+| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 6
+| [جواب]() | دانشگاهی | [تاریخ تولد](https://quera.org/problemset/615) | 7
+
+
+
+
+
+
+
+
+
+
