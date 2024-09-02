@@ -48,9 +48,9 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B1%D8%B4%D8%AA%D9%87%20%DA%86%DA%A9%D8%B1/App.java) | مسابقه | [رشته چکر](https://quera.org/problemset/106795) | 42
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D9%88%D8%A7%D9%84%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D9%86%D9%88%DB%8C%D8%B3%DB%8C%20%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%20%D9%86%D9%88%DB%8C%D8%B3%DB%8C%20%D8%B3%D9%88%D8%A7%D9%84/App.java) | مسابقه | [سوال برنامه نویسی برنامه نویسی سوال](https://quera.org/problemset/3408) | 43
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AE%D8%B1%20%D8%AF%D8%B1%20%DA%86%D9%85%D9%86%20%D9%81%D8%B1%D8%A7%D9%88%D9%88%D9%86%D9%87!!/App.java) | مسابقه | [!!خر در چمن فراوونه](https://quera.org/problemset/4065) | 44
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 45
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 46
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 47
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 48
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%85%D8%AC%DB%8C%D8%AF%D8%8C%20%D9%85%DB%8C%D9%84%D8%A7%D8%AF%D8%8C%20%D8%B1%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C/App.java) | مسابقه | [مجید، میلاد، رشته‌سازی](https://quera.org/problemset/9110) | 45
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AF%D8%B1%20%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%DB%8C%20%D8%AA%D8%B1%D8%A8/App.java) | مسابقه | [در جستجوی ترب](https://quera.org/problemset/62451) | 46
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D9%88%D8%B1%D8%A7%D8%AE%20%D9%85%D9%88%D8%B4/App.java) | مسابقه | [سوراخ موش](https://quera.org/problemset/91712) | 47
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AA%D9%88%20%DA%86%D9%82%D8%AF%D8%B1%20%D8%A7%D8%B6%D8%A7%D9%81%D9%87%20%D9%88%D8%B2%D9%86%20%D8%AF%D8%A7%D8%B1%DB%8C%D8%9F/App.java) | مسابقه | [تو چقدر اضافه وزن داری؟](https://quera.org/problemset/3404) | 48
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 49
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 50
