@@ -20,6 +20,6 @@ public class App
                 hasani-=n;
             }
         }
-		    System.out.println(count);
+	System.out.println(count);
     }
 } 
