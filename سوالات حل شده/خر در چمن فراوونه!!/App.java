@@ -16,5 +16,5 @@ public class App {
             sum += a;
         } 
         System.out.println(sum);
-	  } 
-}       
+    } 
+} 
