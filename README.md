@@ -98,13 +98,13 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D9%88%D8%A7%D9%84%20%D8%B2%D8%B1%D8%AF/App.java) | مسابقه | [سوال زرد](https://quera.org/problemset/3537) | 92
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AD%D8%A7%D8%AC%20%D9%85%D8%B4%D8%AA%DB%8C/main.py) | مسابقه | [حاج مشتی](https://quera.org/problemset/209104) | 93
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1%20%DA%A9%D8%AF%DA%A9%D8%A7%D9%BE%DB%8C/App.java) | مسابقه | [تکرار کدکاپی](https://quera.org/problemset/127289) | 94
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 95
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 96
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 97
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 98
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 99
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 100
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 101
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%A9%D9%84%D9%85%D9%87%20%DA%A9%D9%84%D9%85%D9%87/App.java) | مسابقه | [کلمه کلمه](https://quera.org/problemset/108665) | 95
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%BE%D8%B1%DA%AF%D9%88%D8%B4%D8%AA/App.java) | مسابقه | [پرگوشت](https://quera.org/problemset/72882) | 96
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AA%DB%8C%D9%85%20%DA%A9%D8%B4%DB%8C/App.java) | مسابقه | [تیم کشی](https://quera.org/problemset/80651) | 97
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AA%D8%A7%DB%8C%D9%BE%DB%8C%D8%B3%D8%AA%20%D8%A8%D8%B2%D8%B1%DA%AF/App.java) | مسابقه | [تایپیست بزرگ](https://quera.org/problemset/3416) | 98
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AF%D9%88%20%D8%B4%D8%BA%D9%84%D9%87/App.java) | مسابقه | [دو شغله](https://quera.org/problemset/111990) | 99
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1/App.java) | مسابقه | [گزارش کار](https://quera.org/problemset/49535) | 100
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/The%20Departed%20(2006)/App.java) | مسابقه | [The Departed (2006)](https://quera.org/problemset/132251) | 101
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 102
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 103
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 104
