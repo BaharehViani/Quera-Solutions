@@ -63,9 +63,39 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%85%D9%82%D8%B3%D9%88%D9%85%E2%80%8C%D8%B9%D9%84%DB%8C%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%AF%D8%B1%D8%AF%D8%B3%D8%B1%D8%B3%D8%A7%D8%B2/App.java) | مسابقه | [مقسوم‌علیه‌های دردسرساز](https://quera.org/problemset/33045) | 57
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B4%D8%B4%20%D8%B3%D9%86%DA%AF/main.py) | مسابقه | [شش سنگ](https://quera.org/problemset/211019) | 58
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AF%D9%88%20%D9%86%D9%82%D8%B7%D9%87%20%D8%AE%D8%B7/App.java) | مسابقه | [دو نقطه خط](https://quera.org/problemset/3414) | 59
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 60
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 61
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 62
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D8%A7%D8%AF%D9%87%20%D8%AA%D8%B1/App.java) | مسابقه | [ساده تر](https://quera.org/problemset/3403) | 60
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%A8%D8%A7%D8%A8%20%D9%88%20%DA%A9%D9%84%DB%8C%D8%AF%20%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86/App.java) | مسابقه | [باب و کلید تلویزیون](https://quera.org/problemset/14580) | 61
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%85%D8%B4%D9%82%20%D8%A7%D9%85%D8%B4%D8%A8%20%D8%A8%D8%A7%D9%82%D8%B1/App.java) | مسابقه | [مشق امشب باقر](https://quera.org/problemset/10230) | 62
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 63
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 64
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 65
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 66
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 67
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 68
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 69
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 70
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 71
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 72
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 73
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 74
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 75
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 76
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 77
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 78
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 79
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 80
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 81
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 82
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 83
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 84
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 85
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 86
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 87
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 88
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 89
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 90
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 91
+
+
 
 
