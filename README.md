@@ -76,7 +76,7 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%85%D8%AB%D9%84%D8%AB%20%D8%AE%DB%8C%D8%A7%D9%85%20%D9%BE%D8%A7%D8%B3%DA%A9%D8%A7%D9%84/App.java) | مسابقه | [مثلث خیام پاسکال](https://quera.org/problemset/3410) | 70
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AA%D8%B3%D8%AA%20%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C/App.java) | مسابقه | [تست بینایی](https://quera.org/problemset/2659) | 71
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%84%DB%8C%D9%88%D8%A7%D9%86%20%D8%A8%D8%A7%D8%B2%DB%8C/App.java) | مسابقه | [لیوان بازی](https://quera.org/problemset/8901) | 72
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 73
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AE%D9%8F%D8%A8%20%D8%A8%D8%A7%D9%82%D8%B1%20%D8%B3%D8%B1%D9%85%D8%A7%20%D8%AE%D9%88%D8%B1%D8%AF%D9%87/App.java) | مسابقه | [خُب باقر سرما خورده](https://quera.org/problemset/10231) | 73
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 74
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 75
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 76
