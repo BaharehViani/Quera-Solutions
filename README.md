@@ -82,17 +82,17 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%DB%8C%20%D8%A8%D8%AF/App.java) | مسابقه | [نامه‌ی بد](https://quera.org/problemset/7609) | 76
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AC%D9%85%D8%B9%20%D8%A8%D8%B2%D8%B1%DA%AF%D8%A7%D9%86/App.java) | مسابقه | [جمع بزرگان](https://quera.org/problemset/2551) | 77
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%85%D8%AC%DB%8C%D8%AF%20%D9%88%20%D9%85%D8%A7%DA%98%DB%8C%DA%A9%E2%80%8C%D9%87%D8%A7%D8%B4/App.java) | مسابقه | [مجید و ماژیک‌هاش](https://quera.org/problemset/9109) | 78
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 79
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 80
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 81
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 82
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 83
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 84
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 85
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 86
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 87
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 88
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 89
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B2%DB%8C%D9%86%DB%8C/App.java) | مسابقه | [زینی](https://quera.org/problemset/33023) | 79
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%86%D9%85%D8%A7%DB%8C%D8%B4%DA%AF%D8%A7%D9%87%20%D9%85%D8%AC%D8%A7%D8%B2%DB%8C/App.java) | مسابقه | [نمایشگاه مجازی](https://quera.org/problemset/110015) | 80
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%20%D9%86%D8%A7%D8%B4%DB%8C/App.java) | مسابقه | [خریدار ناشی](https://quera.org/problemset/2755) | 81
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/TAX/App.java) | مسابقه | [TAX](https://quera.org/problemset/6313) | 82
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%A9%D9%85%DA%A9%20%D8%A8%D9%87%20%DA%A9%D8%A7%D9%BE%DB%8C/App.java) | مسابقه | [کمک به کاپی](https://quera.org/problemset/8838) | 83
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DB%8C%DA%A9%20%D8%B3%D9%88%D8%A7%D9%84%20%D8%B3%D8%A7%D8%AF%D9%87/App.java) | مسابقه | [یک سوال ساده](https://quera.org/problemset/2885) | 84
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA%20%D9%88%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA/App.java) | مسابقه | [بهداشت و سلامت](https://quera.org/problemset/51865) | 85
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D8%B1%D8%A7%D8%A8/App.java) | مسابقه | [سراب](https://quera.org/problemset/4067) | 86
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%A8%D8%AA%D8%A7%DB%8C%D9%BE/App.java) | مسابقه | [بتایپ](https://quera.org/problemset/28948) | 87
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%A2%D8%B3%D9%85%D8%A7%D9%86%20%D8%B4%DA%A9%D8%B1%20%D8%A2%D8%A8%D8%A7%D8%AF/App.java) | مسابقه | [آسمان شکر آباد](https://quera.org/problemset/6082) | 88
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%A9%D8%A7%D8%B1%D9%85%D9%86%D8%AF%20%D8%B2%DB%8C%D8%A7%D8%AF%DB%8C/App.java) | مسابقه | [کارمند زیادی](https://quera.org/problemset/10636) | 89
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 90
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 91
 
