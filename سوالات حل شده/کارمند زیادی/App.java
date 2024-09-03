@@ -25,5 +25,5 @@ public class App {
             counter = 1;
         }
         System.out.println(max);
-	}   
+    }   
 } 
