@@ -7,14 +7,14 @@ public class App
     {
         Scanner scan = new Scanner(System.in);
         BigInteger x = scan.nextBigInteger();
-		    String str = scan.next();
+	tring str = scan.next();
         BigInteger y = scan.nextBigInteger();
         scan.close();
 
         if (str.equals("+")) {
-    			System.out.print(x.add(y));
-    		} else {
-			    System.out.print(x.multiply(y));
-		    }
+    		System.out.print(x.add(y));
+    	} else {
+		System.out.print(x.multiply(y));
+	}
     }
 }
