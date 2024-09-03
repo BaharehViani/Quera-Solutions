@@ -23,5 +23,5 @@ public class App {
                 System.out.println(income - tax);
             }
         }
-	} 
-}       
+    } 
+}
