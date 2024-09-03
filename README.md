@@ -95,9 +95,9 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%A9%D8%A7%D8%B1%D9%85%D9%86%D8%AF%20%D8%B2%DB%8C%D8%A7%D8%AF%DB%8C/App.java) | مسابقه | [کارمند زیادی](https://quera.org/problemset/10636) | 89
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AC%D8%AF%D9%88%D9%84%20%D8%B6%D8%B1%D8%A8%20%DA%AF%D9%86%D8%AF%D9%87/App.java) | مسابقه | [جدول ضرب گنده](https://quera.org/problemset/3409) | 90
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%87/App.java) | مسابقه | [محاسبه](https://quera.org/problemset/52545) | 91
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 92
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 93
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 94
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D9%88%D8%A7%D9%84%20%D8%B2%D8%B1%D8%AF/App.java) | مسابقه | [سوال زرد](https://quera.org/problemset/3537) | 92
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AD%D8%A7%D8%AC%20%D9%85%D8%B4%D8%AA%DB%8C/main.py) | مسابقه | [حاج مشتی](https://quera.org/problemset/209104) | 93
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AA%DA%A9%D8%B1%D8%A7%D8%B1%20%DA%A9%D8%AF%DA%A9%D8%A7%D9%BE%DB%8C/App.java) | مسابقه | [تکرار کدکاپی](https://quera.org/problemset/127289) | 94
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 95
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 96
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 97
