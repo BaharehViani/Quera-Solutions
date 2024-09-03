@@ -5,7 +5,7 @@ public class App {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-		    int n = scan.nextInt();
+	int n = scan.nextInt();
         //fill array
         String[] name = new String[n];
         for (int i = 0; i < name.length; i++) {
@@ -24,5 +24,5 @@ public class App {
                 System.out.println(name[j+i] + ": khodafez " + name[i] + "!");
             }
         }
-	  }	
+    }	
 }       
