@@ -62,7 +62,7 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D9%84%D8%A7%D9%85%20%D8%B3%D9%84%D8%A7%D9%85%20%D8%AE%D8%AF%D8%A7%D8%AD%D8%A7%D9%81%D8%B8/App.java) | مسابقه | [سلام سلام خداحافظ](https://quera.org/problemset/31021) | 56
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%85%D9%82%D8%B3%D9%88%D9%85%E2%80%8C%D8%B9%D9%84%DB%8C%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%AF%D8%B1%D8%AF%D8%B3%D8%B1%D8%B3%D8%A7%D8%B2/App.java) | مسابقه | [مقسوم‌علیه‌های دردسرساز](https://quera.org/problemset/33045) | 57
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B4%D8%B4%20%D8%B3%D9%86%DA%AF/main.py) | مسابقه | [شش سنگ](https://quera.org/problemset/211019) | 58
-| [جواب]() | مسابقه | [دو نقطه خط](https://quera.org/problemset/3414) | 59
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AF%D9%88%20%D9%86%D9%82%D8%B7%D9%87%20%D8%AE%D8%B7/App.java) | مسابقه | [دو نقطه خط](https://quera.org/problemset/3414) | 59
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 60
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 61
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 62
