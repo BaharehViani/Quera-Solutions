@@ -5,7 +5,6 @@ public class App {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-
         String letter = scan.next();
         scan.close();
         char[] word = new char[letter.length()];
@@ -29,5 +28,5 @@ public class App {
         } else {
             System.out.println("bad");
         }
-	} 
-}       
+    } 
+} 
