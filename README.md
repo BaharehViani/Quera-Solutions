@@ -1,7 +1,7 @@
 ## پاسخ سوالات کوئرا به زبان جاوا <در حال تکمیل شدن...>
 :small_orange_diamond: تمام جواب های قرار داده شده نمره کامل 100 میگیرند.
-<br /> :small_orange_diamond: به غیر از دسته بندی front-end پاسخ تمامی سوالات به زبان جاوا است.
 <br /> :heavy_check_mark: **با مراجعه به پوشه سوالات حل شده عنوان سوال رو راحت تر پیدا میکنید چون تقریبا بر اساس حروف الفباست.**
+<br /> :small_orange_diamond: به غیر از دسته بندی front-end پاسخ تمامی سوالات به زبان جاوا است.
 <br /> :small_orange_diamond: تعداد سوالات حل شده: 125
 | لینک جواب | دسته بندی | نام سوال | ردیف |
 | :---: | :---: | :---: | :---: |
@@ -119,10 +119,10 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D9%BE%DB%8C%D8%AF%D9%87/App.java) | مسابقه | [سپیده](https://quera.org/problemset/31020) | 112
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87/App.java) | مسابقه | [جشنواره](https://quera.org/problemset/104589) | 113
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B1%D8%B4%D8%AA%D9%87%20%D9%81%DB%8C%D8%A8%D9%88%D9%86%D8%A7%DA%86%DB%8C/App.java) | مسابقه | [رشته فیبوناچی](https://quera.org/problemset/17675) | 114
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 115
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 116
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 117
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 118
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B4%D9%85%D8%A7%D8%B1%D9%87%20%D8%B1%D9%86%D8%AF/App.java) | مسابقه | [شماره رند](https://quera.org/problemset/91713) | 115
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%86%D8%A7%D9%BE%20%D8%A8%D8%B1%D8%B9%DA%A9%D8%B3/App.java) | مسابقه | [چاپ برعکس](https://quera.org/problemset/3405) | 116
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%A7%D8%B3%D9%86%D9%BE%20%D8%AF%D8%B1%20%D8%B4%DA%A9%D8%B1%D8%B3%D8%AA%D8%A7%D9%86/App.java) | مسابقه | [اسنپ در شکرستان](https://quera.org/problemset/8938) | 117
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%87%D9%85%D8%A7%DB%8C%D8%B4%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A8%D9%87%D8%AA%D8%B1/App.java) | مسابقه | [همایش زندگی بهتر](https://quera.org/problemset/10325) | 118
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 119
 | [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 120
 
