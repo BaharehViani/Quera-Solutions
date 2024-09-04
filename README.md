@@ -106,10 +106,24 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AF%D9%88%20%D8%B4%D8%BA%D9%84%D9%87/App.java) | مسابقه | [دو شغله](https://quera.org/problemset/111990) | 99
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1/App.java) | مسابقه | [گزارش کار](https://quera.org/problemset/49535) | 100
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/The%20Departed%20(2006)/App.java) | مسابقه | [The Departed (2006)](https://quera.org/problemset/132251) | 101
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 102
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 103
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 104
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 105
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 106
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%A9%D8%A7%DA%A9%D8%AA%D9%88%D8%B3%E2%80%8C%D9%87%D8%A7%DB%8C%20%D9%BE%D8%B1%D8%AF%D8%B1%D8%AF%D8%B3%D8%B1/App.java) | مسابقه | [کاکتوس‌های پردردسر](https://quera.org/problemset/52542) | 102
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86%20%D9%85%D8%AF%D8%A7%D8%B1%D8%A8%D8%B3%D8%AA%D9%87/App.java) | مسابقه | [دوربین مداربسته](https://quera.org/problemset/2794) | 103
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%88%D8%B3%D8%B7%20%D8%B5%D9%86%D8%AF%D9%84%DB%8C%20%D8%B9%D9%82%D8%A8/App.java) | مسابقه | [وسط صندلی عقب](https://quera.org/problemset/3412) | 104
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B5%D9%81%D8%AD%D9%87%E2%80%8C%DA%A9%D9%84%DB%8C%D8%AF%20%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA%DB%8C/App.java) | مسابقه | [صفحه‌کلید انتخاباتی](https://quera.org/problemset/7998) | 105
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/ICPC/App.java) | مسابقه | [ICPC](https://quera.org/problemset/26109) | 106
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B3%D9%88%D8%A7%D9%84%20%D9%86%D9%81%D8%B3%E2%80%8C%DA%AF%DB%8C%D8%B1/App.java) | مسابقه | [سوال نفس‌گیر](https://quera.org/problemset/26651) | 107
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 108
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 109
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 110
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 111
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 112
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 113
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 114
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 115
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 116
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 117
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 118
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 119
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 120
 
 
