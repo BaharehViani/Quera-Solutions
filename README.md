@@ -123,7 +123,11 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%86%D8%A7%D9%BE%20%D8%A8%D8%B1%D8%B9%DA%A9%D8%B3/App.java) | مسابقه | [چاپ برعکس](https://quera.org/problemset/3405) | 116
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%A7%D8%B3%D9%86%D9%BE%20%D8%AF%D8%B1%20%D8%B4%DA%A9%D8%B1%D8%B3%D8%AA%D8%A7%D9%86/App.java) | مسابقه | [اسنپ در شکرستان](https://quera.org/problemset/8938) | 117
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%87%D9%85%D8%A7%DB%8C%D8%B4%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A8%D9%87%D8%AA%D8%B1/App.java) | مسابقه | [همایش زندگی بهتر](https://quera.org/problemset/10325) | 118
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 119
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 120
-
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%A9%D8%A7%D8%B3%D9%87%20%D9%88%20%D9%86%D8%AE%D9%88%D8%AF/App.java) | مسابقه | [کاسه و نخود](https://quera.org/problemset/197000) | 119
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B1%DA%98%DB%8C%D9%85%20%D8%B3%D8%AE%D8%AA/App.java) | مسابقه | [رژیم سخت](https://quera.org/problemset/20256) | 120
+| [جواب]() | Front-end | [](https://quera.org/problemset/615) | 121
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 122
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 123
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 124
+| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 125
 
