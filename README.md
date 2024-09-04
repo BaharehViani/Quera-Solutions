@@ -1,4 +1,4 @@
-## پاسخ سوالات کوئرا به زبان جاوا <در حال تکمیل شدن...>
+## پاسخ سوالات کوئرا به زبان جاوا
 :small_orange_diamond: تمام جواب های قرار داده شده نمره کامل 100 میگیرند.
 <br /> :heavy_check_mark: **با مراجعه به پوشه سوالات حل شده عنوان سوال رو راحت تر پیدا میکنید چون تقریبا بر اساس حروف الفباست.**
 <br /> :small_orange_diamond: به غیر از دسته بندی front-end پاسخ تمامی سوالات به زبان جاوا است.
@@ -125,9 +125,9 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%87%D9%85%D8%A7%DB%8C%D8%B4%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A8%D9%87%D8%AA%D8%B1/App.java) | مسابقه | [همایش زندگی بهتر](https://quera.org/problemset/10325) | 118
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%A9%D8%A7%D8%B3%D9%87%20%D9%88%20%D9%86%D8%AE%D9%88%D8%AF/App.java) | مسابقه | [کاسه و نخود](https://quera.org/problemset/197000) | 119
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B1%DA%98%DB%8C%D9%85%20%D8%B3%D8%AE%D8%AA/App.java) | مسابقه | [رژیم سخت](https://quera.org/problemset/20256) | 120
-| [جواب]() | Front-end | [](https://quera.org/problemset/615) | 121
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 122
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 123
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 124
-| [جواب]() | مسابقه | [](https://quera.org/problemset/615) | 125
+| [جواب]() | Front-end | [دوزیستان ناکام](https://quera.org/problemset/15688) | 121
+| [جواب]() | Front-end | [صفحه‌ی پاسخگو](https://quera.org/problemset/33043) | 122
+| [جواب]() | Front-end | [عکس تار](https://quera.org/problemset/33488) | 123
+| [جواب]() | Front-end | [بله](https://quera.org/problemset/98448) | 124
+| [جواب]() | Front-end | [وسط قرار دادن المان](https://quera.org/problemset/68275) | 125
 
