@@ -125,9 +125,9 @@
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%87%D9%85%D8%A7%DB%8C%D8%B4%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A8%D9%87%D8%AA%D8%B1/App.java) | مسابقه | [همایش زندگی بهتر](https://quera.org/problemset/10325) | 118
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%DA%A9%D8%A7%D8%B3%D9%87%20%D9%88%20%D9%86%D8%AE%D9%88%D8%AF/App.java) | مسابقه | [کاسه و نخود](https://quera.org/problemset/197000) | 119
 | [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B1%DA%98%DB%8C%D9%85%20%D8%B3%D8%AE%D8%AA/App.java) | مسابقه | [رژیم سخت](https://quera.org/problemset/20256) | 120
-| [جواب]() | Front-end | [دوزیستان ناکام](https://quera.org/problemset/15688) | 121
-| [جواب]() | Front-end | [صفحه‌ی پاسخگو](https://quera.org/problemset/33043) | 122
-| [جواب]() | Front-end | [عکس تار](https://quera.org/problemset/33488) | 123
-| [جواب]() | Front-end | [بله](https://quera.org/problemset/98448) | 124
-| [جواب]() | Front-end | [وسط قرار دادن المان](https://quera.org/problemset/68275) | 125
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/tree/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%AF%D9%88%D8%B2%DB%8C%D8%B3%D8%AA%D8%A7%D9%86%20%D9%86%D8%A7%DA%A9%D8%A7%D9%85) | Front-end | [دوزیستان ناکام](https://quera.org/problemset/15688) | 121
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/tree/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B5%D9%81%D8%AD%D9%87%E2%80%8C%DB%8C%20%D9%BE%D8%A7%D8%B3%D8%AE%DA%AF%D9%88) | Front-end | [صفحه‌ی پاسخگو](https://quera.org/problemset/33043) | 122
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/tree/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%B9%DA%A9%D8%B3%20%D8%AA%D8%A7%D8%B1) | Front-end | [عکس تار](https://quera.org/problemset/33488) | 123
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/tree/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D8%A8%D9%84%D9%87) | Front-end | [بله](https://quera.org/problemset/98448) | 124
+| [جواب](https://github.com/BaharehViani/Quera-Solutions/blob/main/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%AD%D9%84%20%D8%B4%D8%AF%D9%87/%D9%88%D8%B3%D8%B7%20%D9%82%D8%B1%D8%A7%D8%B1%20%D8%AF%D8%A7%D8%AF%D9%86%20%D8%A7%D9%84%D9%85%D8%A7%D9%86/style.css) | Front-end | [وسط قرار دادن المان](https://quera.org/problemset/68275) | 125
 
